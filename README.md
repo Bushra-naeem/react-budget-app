@@ -32,7 +32,7 @@ This is a simple budget app built using React. It allows users to add different 
 2. Navigate to the project directory:
 
    ```bash
-   cd react-meme-generator
+   cd react-budget-app
    ```
 
 3. Install the dependencies:
